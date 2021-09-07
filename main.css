@@ -1,0 +1,25 @@
+.lightbox_gallery {
+    background-image: linear-gradient(#4a14bc, #e53935);
+    overflow-x: hidden;
+}
+
+.lightbox_gallery .heading h2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 40px 0;
+}
+
+.lightbox_gallery .photos {
+    padding-bottom: 20px;
+}
+
+.lightbox_gallery .item {
+    padding-bottom: 20px;
+}
+
+.photos img {
+    min-height: 270px;
+}
+
